@@ -1,0 +1,14 @@
+{
+  "name": "manmaru.datautil",
+  "main": "manmaru.datautil.js",
+  "authors": [
+    "Adrien Dufond <adrien.dufond@gmail.com>"
+  ],
+  "description": "javascript utilities for cookie data manipulating",
+  "keywords": [
+    "cookie",
+    "manmaru"
+  ],
+  "license": "MIT",
+  "homepage": "www.manmaru.fr"
+}
