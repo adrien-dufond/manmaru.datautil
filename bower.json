@@ -1,6 +1,10 @@
 {
   "name": "manmaru.datautil",
   "main": "manmaru.datautil.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrien-dufond/manmaru.datautil.git"
+  },
   "authors": [
     "Adrien Dufond <adrien.dufond@gmail.com>"
   ],
